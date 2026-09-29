@@ -1,4 +1,6 @@
-pyttsx3
+streamlit
 SpeechRecognition
+pyaudio
 nltk
-PyAudio
+requests
+pyttsx3
